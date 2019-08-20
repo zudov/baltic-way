@@ -1,6 +1,8 @@
 # Baltic Way
 
-Track that follows along the [Baltic Way](https://en.wikipedia.org/wiki/Baltic_Way) based on the data from [thebalticway.eu](http://www.thebalticway.eu).
+![The Baltic Way map logo](logo.png)
+
+GPX track that follows along the [Baltic Way](https://en.wikipedia.org/wiki/Baltic_Way) based on the data from [thebalticway.eu](http://www.thebalticway.eu).
 
 Contents:
 - [trackpoints.json](trackpoints.json) – a file obtained from http://www.thebalticway.eu/_map/route.json
